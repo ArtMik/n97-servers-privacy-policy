@@ -26,4 +26,4 @@ If the app’s data practices change, this policy will be updated before the cha
 
 ## Contact
 
-Questions about this policy can be submitted through the project’s issue tracker: https://github.com/ArtMik-Soft/N97/issues
+For privacy questions or developer contact, email [ivanplakso@gmail.com](mailto:ivanplakso@gmail.com).
